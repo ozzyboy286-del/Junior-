@@ -1,0 +1,6 @@
+{
+  "name": "KeyMaster: Clavier & Raccourcis PC",
+  "description": "Jeu d'arcade interactif pour maîtriser le clavier et les raccourcis PC (AZERTY/QWERTY) avec progression par paliers, défis chronométrés et simulation mécanique sonore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
